@@ -1,5 +1,5 @@
 print("Hello from CI test")
-from utils import greet
+from my_tools import greet
 
 print(greet("CI test"))
 
